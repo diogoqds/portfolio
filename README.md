@@ -8,7 +8,7 @@
 <sub>*Software Developer</sub>
 
 **Projetos:**
-* [Analisando os dados do Airbnb para cidade de San Francisco](https://github.com/diogoqds/portfolio/blob/master/Analisando_os_Dados_do_Airbnb_San_Francisco.ipynb)
+* [Analisando os dados do Airbnb para cidade de Londres](https://github.com/diogoqds/portfolio/blob/master/Analisando_os_Dados_do_Airbnb_London.ipynb)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/diogo-queiroz/)
