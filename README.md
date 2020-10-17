@@ -10,6 +10,7 @@
 **Projetos:**
 * [Analisando os dados do Airbnb para cidade de Londres](https://github.com/diogoqds/portfolio/blob/master/Analisando_os_Dados_do_Airbnb_London.ipynb)
 * [Panorama COVID-19](https://github.com/diogoqds/portfolio/blob/master/Panorama_do_COVID_19_no_Brasil.ipynb)
+* [Iris](https://github.com/diogoqds/portfolio/blob/master/Iris_dataset.ipynb)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/diogo-queiroz/)
